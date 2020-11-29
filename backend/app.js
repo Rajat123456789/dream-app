@@ -14,7 +14,7 @@ mongoose
     //   process.env.MONGO_ATLAS_PW +
     //   "@cluster0.bso1l.mongodb.net/node-angular?retryWrites=true&w=majority"
     //"mongodb+srv://rajat:ptJaMqgQWVWgKeGN@cluster0.bso1l.mongodb.net/node-angular?retryWrites=true&w=majority"
-    "mongodb+srv://YushaRajatAnkit:uXTq9OKnScPP2eYd@cluster0.vowp5.mongodb.net/node-angular?retryWrites=true&w=majority"
+    "mongodb+srv://YushaRajatAnkit:uXTq9OKnScPP2eYd@cluster0.vowp5.mongodb.net/database?retryWrites=true&w=majority"
   )
   .then(() => {
     console.log("Connected to database!");
